@@ -22,7 +22,7 @@ We're learning together as a fun bonding experience, holding each other accounta
 | `Srihas` | Srihas's personal notes & exercises |
 | `Srilasya` | Srilasya's personal notes & exercises |
 
-Each branch contains individual Jupyter notebooks (`.ipynb`) organized by course section.
+Each branch contains individual Jupyter notebooks (`.ipynb`) or Python files (`.py`) organized by course section. For the duration of the course, we are just pushing our own notes and code to our respective branches. Once we are done with the entire course, we will figure out a merge!
 
 ---
 
