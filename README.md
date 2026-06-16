@@ -2,7 +2,15 @@
 
 Personal notes and exercises from [**The Complete Python Bootcamp From Zero to Hero in Python**](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla / Pierian Training on Udemy.
 
-This repo is maintained by **Srihas** and **Srilasya** as they work through the course together.
+---
+
+## 👨‍👩‍👧 Our Learning Journey
+
+This repo is a shared learning project between siblings **Srilasya** (repo owner) and **Srihas**. 
+
+**Srilasya** is a complete beginner, learning to program for the very first time from scratch—Python is her first programming language! **Srihas** is a more experienced programmer with a solid foundation in C, C++, Java, and Data Structures & Algorithms (DSA), and wanted to learn Python syntax fresh from the start.
+
+We're learning together as a fun bonding experience, holding each other accountable every single day for **30 minutes (8:00 PM – 8:30 PM Central Time)**. Srihas is there to help Srilasya when she needs clarification on concepts, but we're still learning together—many of Python's shortcuts and niche features are new to Srihas too, so we both benefit from discovering them! 🐍✨
 
 ---
 
@@ -53,15 +61,8 @@ Each branch contains individual Jupyter notebooks (`.ipynb`) organized by course
 2. Install [Jupyter Notebook](https://jupyter.org/install) or use [VS Code](https://code.visualstudio.com/) with the Jupyter extension
 3. Clone the repo and switch to your branch:
    ```bash
-   git clone https://github.com/<org-or-user>/Python-Zero-to-Hero-Udemy-Bootcamp.git
+   git clone https://github.com/fancylasya/Python-Zero-to-Hero-Udemy-BootcampPython-Zero-to-Hero-Udemy-Bootcamp.git
    cd Python-Zero-to-Hero-Udemy-Bootcamp
    git checkout Srihas   # or Srilasya
    ```
 
----
-
-## 📝 Notes
-
-- Notebooks are organized into folders by section (e.g., `Section 3 - Python Object and Data Structure Basics/`)
-- Both branches are kept independent so each person can experiment freely
-- Merges to `main` happen when a section is completed
